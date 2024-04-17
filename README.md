@@ -3,6 +3,7 @@
 In the following section it is reported a quick summary of the commands used throughout the exercise:
 
 --------------------------------- DOM Manipulation --------------------------------
+
 -Query selectors
 
 -Element creation
@@ -20,6 +21,7 @@ In the following section it is reported a quick summary of the commands used thr
 -Working with classes
 
 --------------------------------- Events ------------------------------------------
+
 -Method 1
 
 -Method 2
